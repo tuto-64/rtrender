@@ -1,2 +1,3 @@
-# rtrender
-Motor de videojuegos capaz de crear juegos guays (En desarollo, aun no esta publicado)
+# Rtrender
+## Un motor capaz de todo, ahora codigo abierto.
+En desarollo, ven pronto
